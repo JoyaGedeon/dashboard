@@ -1,0 +1,15 @@
+*{
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 50vh;
+}
+form{
+    background: rgb(174, 174, 174);
+    height: 35vh;
+    margin: 0 15vh;
+}
+form > *{
+    margin: 1vh 0;
+}

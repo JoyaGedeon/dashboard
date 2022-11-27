@@ -1,0 +1,14 @@
+*{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: auto;
+}
+
+.table{
+    width: 70%;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    margin: 30vh auto;
+}
+
